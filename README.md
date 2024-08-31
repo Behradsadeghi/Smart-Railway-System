@@ -1,2 +1,2 @@
 # Smart-Railway-System
-Smart Railway System Using Graph Algorithms
+This project is my final assignment for the Data Structures course. It involves developing a Smart Railway Transportation System using graph data structures and algorithms. The system addresses challenges such as finding the shortest path between stations, detecting cycles in railway routes, identifying all possible paths between stations, and determining maximal cliques within the network. We utilize algorithms like Dijkstra’s for shortest paths and DFS for pathfinding and cycle detection.
